@@ -1,8 +1,0 @@
-version: v1
-runConfig:
-  runCommand: node .output/server/index.mjs
-metadata:
-  framework: nuxt
-  frameworkVersion: 3.14.159
-  adapterPackageName: nitropack
-  adapterVersion: 2.11.0-20241111-124621.9563e9a7
