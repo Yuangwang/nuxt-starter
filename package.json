@@ -10,12 +10,8 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt":"npm:nuxt-nightly@latest",
+    "nuxt":"latest",
     "vue": "latest",
     "vue-router": "latest"
   },
-  "overrides": {
-    "nitro":"2.11.0-20241111-124621.9563e9a7",
-    "nitropack":"npm:nitropack-nightly@2.11.0-20241111-124621.9563e9a7"
-  }
 }
