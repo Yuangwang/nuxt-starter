@@ -13,5 +13,5 @@
     "nuxt":"latest",
     "vue": "latest",
     "vue-router": "latest"
-  },
+  }
 }
